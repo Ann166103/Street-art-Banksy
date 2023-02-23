@@ -1,0 +1,41 @@
+<RCC>
+  <qresource prefix="street_art">
+    <file>images/ris1.jpg</file>
+    <file>images/ris2.jpg</file>
+    <file>images/ris3.jpg</file>
+    <file>images/ris4.jpg</file>
+    <file>images/ris5.png</file>
+    <file>images/ris6.jpg</file>
+    <file>images/ris7.jpg</file>
+    <file>images/ris8.jpg</file>
+    <file>images/ris9.jpg</file>
+  </qresource>
+  <qresource prefix="banksy">
+    <file>images/global warming.jpg</file>
+    <file>images/banksys-love-bin-sothebys.jpg</file>
+    <file>images/Bristol-Museum.jpg</file>
+    <file>images/funt.jpg</file>
+    <file>images/monkey.jpg</file>
+    <file>images/mouse2.jpg</file>
+    <file>images/Slave_Labour.jpg</file>
+    <file>images/Steev_ Djobs.jpg</file>
+    <file>images/zolushka.jpg</file>
+  </qresource>
+  <qresource prefix="works">
+    <file>images/zebra.jpeg</file>
+    <file>images/bear.jpg</file>
+    <file>images/beath.jpg</file>
+    <file>images/cat.jpeg</file>
+    <file>images/england.jpeg</file>
+    <file>images/girl.jpeg</file>
+    <file>images/girl2.jpeg</file>
+    <file>images/greh.jpg</file>
+    <file>images/marrycrismas.jpeg</file>
+    <file>images/mauseandclock.jpeg</file>
+    <file>images/moishik.jpeg</file>
+    <file>images/mone.jpg</file>
+    <file>images/potreb.jpeg</file>
+    <file>images/telephon.jpeg</file>
+    <file>images/zametayte.jpeg</file>
+  </qresource>
+</RCC>
